@@ -1,5 +1,5 @@
 ## hey there :wave:!
-<p>My name is Ali, I'm a Python programmer, Learning web development with Django, Also learning software engineering at university</p>
+<p>My name is Ali, I'm a Python/Django developer/Computer Science student. I'm learning Django Rest Framework and also trying to become a better Django developer</p>
 <a href="https://discord.com/users/705043892541849640" target="_blank">
   <img align="left" alt="Discord" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" hspace="20" />
 </a><a href="http://twitter.com/_ali_fattahian/" target="_blank">
